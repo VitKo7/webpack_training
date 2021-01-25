@@ -1,9 +1,15 @@
 body {
   min-height: 100vh;
-  background-color: tomato;
+  background-color: orange;
 }
+
+p {
+  font-size: 24px;
+  font-weight: 700;
+}
+
 .square {
-  width: 100px;
-  height: 100px;
+  width: 200px;
+  height: 200px;
   background-color: #fff;
 }
